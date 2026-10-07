@@ -30,17 +30,17 @@
 
 ---
 
-### 👨‍💻 About Me & Engineering Philosophy
+### 👨‍💻 Engineering Profile & Overview
 
-- 🎓 **Top Academic Record:** Graduated **2nd in Class** with **Excellent High Honors (GPA: 3.97)** in Computer Science.
-- 📱 **Mobile Development:** Building robust, production-ready apps across Android and iOS using **Flutter**, **Dart**, and **Clean Architecture**.
-- 🏛️ **Architecture & State:** Expert in **BLoC**, **Provider**, **SOLID Principles**, and resilient offline caching strategies.
-- 👥 **Leadership & Mentorship:** Former **Microsoft Flutter Community Leader** at Obour University and Technical Instructor at Creative Learning Center.
-- 🛠️ **Full-Cycle Delivery:** Proficient from product discovery and UI wireframing to CI/CD pipeline automation and store release.
+- 🎓 **Academic Standing:** Graduated **2nd in Class** with **Excellent High Honors (GPA: 3.97)** in Computer Science.
+- 📱 **Mobile Specialization:** Building production-grade Android & iOS applications using **Flutter**, **Dart**, and **Clean Architecture**.
+- 🏛️ **Architecture & State Management:** Solid experience with **BLoC Pattern**, **Provider**, **SOLID Principles**, and repository-based modular structure.
+- 👥 **Community & Leadership:** Former **Microsoft Flutter Community Leader** at Obour University & Technical Trainer at Creative Learning Center.
+- ⚡ **Full Lifecycle Delivery:** Handling UI/UX prototyping, state management, REST API integration, automated testing, and CI/CD deployment.
 
 ---
 
-### 🛠️ Core Stack & Tooling
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cpp,py,nodejs,postgres,mongodb,mysql,sqlite,firebase,git,github,postman,figma" alt="Tech Stack Icons" />
@@ -52,13 +52,19 @@
 | :--- | :--- |
 | **Mobile Core** | Flutter, Dart, BLoC Pattern, Provider, Hive, SQLite, Push Notifications (FCM), Stripe |
 | **Architecture** | Clean Architecture, SOLID Principles, MVVM, Repository Pattern, System Design |
-| **Backend & Cloud** | Node.js, Firebase (Firestore, Auth, Cloud Functions), PostgreSQL, MongoDB, Socket.io |
+| **Backend & Cloud** | Node.js, Firebase (Firestore, Auth, Functions), PostgreSQL, MongoDB, Socket.io |
 | **DevOps & Tools** | Git, GitHub Actions, CI/CD, Gradle, Postman, Swagger, Figma, OpenGL |
 
 ---
 
-### 🚀 Production & Featured Projects
+### 🚀 Production & Featured Projects (9 Apps)
 
-| Project | Description | Stack | Links |
+| Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **UNI Guide (Gam3ty)** | AI-powered university guidance platform providing college matchmaking, housing info, and career recommendations. *(Graduation Project Lead)* | `Flutter
+| **UNI Guide (Gam3ty)** | AI-driven university matchmaking platform based on GPA, budget, and location with housing & career guidance. *(Graduation Project Lead)* | Flutter, Firebase, BLoC, Stripe, NLP | [Repository](https://github.com/mohamedsallam4/Uni_Guide) |
+| **Propo Shop** | Complete e-commerce application for electronics featuring clean architecture, reactive cart, and smooth UI. | Flutter, Node.js, Socket.io, BLoC, Firebase | [Repository](https://github.com/mohamedsallam4/propy) |
+| **TeleCare+** | Virtual hospital and telepsychiatry system offering live video consultations, scheduling, and AI chatbot support. | Flutter, WebRTC, Firebase, BLoC | [Portfolio](https://mohamedsallam4.github.io/Mohamed-Sallam-Portfolio/) |
+| **Carmouz Café** | Full café ordering solution with real-time menu browsing, custom orders, local caching, and push notifications. | Flutter, Hive, FCM, Provider, Node.js | [Repository](https://github.com/mohamedsallam4/Carmouz_Cafa) |
+| **Alastora Streaming** | Streaming app offering 24/7 broadcasting, live sports matches, and categorized content with smooth playback. | Flutter, Flutter Web, Node.js, BLoC, Firebase | [Repository](https://github.com/mohamedsallam4/termux/tree/main/alastora) |
+| **Rick & Morty App** | Public API integration app for browsing characters, episodes, and locations with caching and fast loading. | Flutter, BLoC, Hive, REST APIs, Provider | [Repository](https://github.com/mohamedsallam4/Rick_and_morty) |
+| **College Master** | Academic assistant for university students to track assignments, view grades, and organize schedules. | Flutter,
