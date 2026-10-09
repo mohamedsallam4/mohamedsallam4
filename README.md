@@ -1,17 +1,12 @@
 <div align="center">
 
-  <!-- Dynamic Animated Header Wave -->
+  <!-- Dynamic Waving Header Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=220&section=header&text=Mohamed%20Sallam&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Junior%20Flutter%20Developer%20%7C%20Mobile%20Software%20Engineer&subfontSize=18&subfontColor=90cdf4" alt="Header Banner" />
 
-  <!-- Smooth Animated Typing SVG -->
+  <!-- URL-Safe Typing SVG Animation -->
   <a href="https://mohamedsallam4.github.io/Mohamed-Sallam-Portfolio/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Junior+Flutter+Developer;Clean+Architecture+--+BLoC+--+Firebase;High-Honors+CS+Graduate+(GPA+3.97);Ex-Microsoft+Flutter+Community+Leader;Building+Clean,+Responsive+Mobile+Apps" alt="Typing Animation" />
   </a>
-
-  <br/><br/>
-
-  <!-- High-Quality Developer Coding Animation -->
-  <img src="https://raw.githubusercontent.com/mohamedsallam4/portfolio-assets/main/Coding%20Time.json" onerror="this.onerror=null; this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif';" width="380" alt="Coding Animation" />
 
   <br/><br/>
 
