@@ -82,27 +82,17 @@
 
 ---
 
-### 🐍 Contribution Activity Snake
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/mohamedsallam4/mohamedsallam4/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-### 📊 Engineering Analytics & Languages
+### 📊 Engineering Analytics & Performance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=mohamedsallam4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues,prs,contribs" alt="Mohamed Sallam Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedsallam4&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=issues,prs" alt="Mohamed Sallam Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedsallam4&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsallam4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsallam4&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohamed's%20Contribution%20%26%20Commit%20Activity" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohamedsallam4&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
